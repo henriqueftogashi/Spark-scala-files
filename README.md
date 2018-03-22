@@ -22,7 +22,7 @@ import org.apache.spark.sql.SparkSession
 val spark = SparkSession.builder.master("local[*]").getOrCreate()
 
 ////////
-GeoSpark
+# GeoSpark
 
 1)Download the jar file from https://github.com/DataSystemsLab/GeoSpark/releases
 2)Put the file in the folder you want it.
