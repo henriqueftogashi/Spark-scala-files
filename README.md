@@ -39,3 +39,7 @@ Machine learning, classification model
 4)Add jars in Project Structure as explained in the beginning of this tutorial
 
 5) Repeat for sql and viz
+
+# ALS recommendation system
+
+How to create a very basic recommmendation system using ALS
